@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nootn.com/sitemap.xml
